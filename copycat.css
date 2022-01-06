@@ -1,0 +1,223 @@
+#banner {
+    max-width: 100%;
+    margin-top: 3.5em;
+}
+
+#company {
+    width: 1.5em;
+    position: absolute;
+    top: 1.3em;
+    left: 3%;
+}
+
+#name {
+    position: absolute;
+    left: 5.5%;
+    top: 1.5em;
+}
+
+#system {
+    position: absolute;
+    left: 19%;
+    top: 1.5em;
+}
+
+#op1 {
+    position: absolute;
+    left: 27%;
+    top: 1.5em;
+}
+
+#op2 {
+    position: absolute;
+    left: 36%;
+    top: 1.5em;
+}
+
+#op3 {
+    position: absolute;
+    left: 43%;
+    top: 1.5em;
+}
+
+#op4 {
+    position: absolute;
+    left: 50%;
+    top: 1.5em;
+}
+
+#op5 {
+    position: absolute;
+    left: 55%;
+    top: 1.5em;
+}
+
+#op6 {
+    position: absolute;
+    left: 70%;
+    top: 1.5em;
+}
+
+#Search {
+    position: absolute;
+    left: 80%;
+    top: 1.5em;
+}
+
+#Shop {
+    position: absolute;
+    left: 83%;
+    top: 1.5em;
+}
+
+#op7 {
+    position: absolute;
+    left: 90%;
+    top: 1.5em;
+}
+
+#Pass {
+position: absolute;
+    left: 8%;
+}
+
+#Games {
+position: absolute;
+    left: 24%;    
+}
+
+#Console {
+position: absolute;
+    left: 40%;   
+}
+
+#Acce {
+position: absolute;
+    left: 56%;   
+}
+
+#Play {
+position: absolute;
+    left: 71%;  
+}
+
+#Sign {
+position: absolute;
+    left: 84%;  
+}
+
+#gp {
+position: absolute;
+    left: 9%;
+    z-index: 1;
+    list-style: none;
+    color: #125915;
+}
+
+#g {
+position: absolute;
+    left: 27%; 
+    z-index: 1; 
+    list-style: none;
+    color: #125915; 
+}
+
+#c {
+position: absolute;
+    left: 42%;
+    z-index: 1;
+    list-style: none;
+    color: #125915;    
+}
+
+#a {
+position: absolute;
+    left: 57%; 
+    z-index: 1; 
+    list-style: none;
+    color: #125915;  
+}
+
+#p {
+position: absolute;
+    left: 74%;
+    z-index: 1; 
+    list-style: none;
+    color: #125915;   
+}
+
+#s {
+position: absolute;
+    left: 87%;
+    z-index: 1; 
+    list-style: none;
+    color: #125915;   
+}
+
+.opa {
+    width: 3%;
+    display: inline-block;
+ }
+
+.opb {
+    display: inline-block;
+ }
+
+.opc {
+    width: 1em;
+    display: inline-block;
+}
+
+.opz {
+    display: inline-block;
+ }
+
+.pic {
+    max-width: 10%;
+
+}
+p {
+    position: absolute;
+    z-index: 5;
+    left: 6.8%;
+    top: 30%;
+    background-color: gold;
+}
+
+h1 {
+    position: absolute;
+    z-index: 5;
+    left: 6.8%;
+    top: 30%;
+    color: white;
+    font-weight: 900;
+    font-size: 50px ;
+}
+
+h2 {
+    position: absolute;
+    z-index: 5;
+    left: 6.8%;
+    top: 50%;
+    color: white;
+    font-weight: 500;
+    font-size: 40px ;
+    max-width: 40%;
+}
+
+h3 {
+    position: absolute;
+    z-index: 5;
+    left: 6.8%;
+    top: 80%;
+    color: #125915;
+    background-color: #9bf00b;
+    font-weight: 900;
+    font-size: 20px ;
+    padding: .5em 1.5em;
+}
+
+a {
+    list-style: none;
+    color: #125915;
+}
